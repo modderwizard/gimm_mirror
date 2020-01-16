@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:4878e76154feec93d823a1ef311731d1:031651f22fe331a9499dde8f309fdc13:955b8071cb63f408b44eda086070032b$ -->
+<TextureAtlas imagePath="image_assets.png" width="1024" height="2048">
+    <SubTexture name="AirConUnit" x="938" y="774" width="20" height="16"/>
+    <SubTexture name="Barrel" x="966" y="1123" width="16" height="16"/>
+    <SubTexture name="Bullet" x="959" y="672" rotated="true" width="3" height="5"/>
+    <SubTexture name="Car_Cop_0" x="902" y="0" width="91" height="29"/>
+    <SubTexture name="Car_Cop_1" x="902" y="29" width="91" height="29"/>
+    <SubTexture name="Car_Cop_2" x="902" y="58" width="91" height="29"/>
+    <SubTexture name="Car_Cop_3" x="902" y="87" width="91" height="29"/>
+    <SubTexture name="Car_Cop_4" x="902" y="116" width="91" height="29"/>
+    <SubTexture name="Car_Cop_5" x="902" y="145" width="91" height="29"/>
+    <SubTexture name="Car_Cop_6" x="902" y="174" width="91" height="29"/>
+    <SubTexture name="Car_Cop_7" x="902" y="203" width="91" height="29"/>
+    <SubTexture name="Car_Cop_Shoot0" x="1014" y="1093" rotated="true" width="10" height="12"/>
+    <SubTexture name="Car_Cop_Shoot1" x="1009" y="1105" width="12" height="10"/>
+    <SubTexture name="Car_Criminals" x="993" y="216" rotated="true" width="29" height="91"/>
+    <SubTexture name="Car_Criminals_0" x="902" y="232" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_1" x="902" y="261" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_2" x="902" y="290" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_3" x="993" y="307" rotated="true" width="29" height="91"/>
+    <SubTexture name="Car_Criminals_4" x="902" y="319" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_5" x="902" y="348" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_6" x="902" y="377" width="91" height="29"/>
+    <SubTexture name="Car_Criminals_7" x="993" y="398" rotated="true" width="29" height="91"/>
+    <SubTexture name="Car_Criminals_Shoot0" x="1009" y="1115" width="12" height="10"/>
+    <SubTexture name="Car_Criminals_Shoot1" x="1009" y="1125" width="12" height="10"/>
+    <SubTexture name="City_Back0" x="722" y="0" rotated="true" width="180" height="320"/>
+    <SubTexture name="City_Back1" x="722" y="320" rotated="true" width="180" height="320"/>
+    <SubTexture name="City_Fore0" x="722" y="640" rotated="true" width="180" height="320"/>
+    <SubTexture name="City_Fore1" x="722" y="960" rotated="true" width="180" height="320"/>
+    <SubTexture name="Fire_28" x="934" y="1135" width="16" height="16"/>
+    <SubTexture name="Fire_29" x="950" y="1135" width="16" height="16"/>
+    <SubTexture name="Fire_30" x="966" y="1139" width="16" height="16"/>
+    <SubTexture name="Fire_31" x="902" y="1146" width="16" height="16"/>
+    <SubTexture name="Fire_32" x="918" y="1146" width="16" height="16"/>
+    <SubTexture name="Fire_33" x="934" y="1151" width="16" height="16"/>
+    <SubTexture name="Fire_34" x="950" y="1151" width="16" height="16"/>
+    <SubTexture name="Fire_35" x="966" y="1155" width="16" height="16"/>
+    <SubTexture name="Fire_36" x="902" y="1162" width="16" height="16"/>
+    <SubTexture name="Fire_37" x="918" y="1162" width="16" height="16"/>
+    <SubTexture name="Fire_38" x="934" y="1167" width="16" height="16"/>
+    <SubTexture name="Fire_39" x="950" y="1167" width="16" height="16"/>
+    <SubTexture name="Fire_40" x="902" y="1178" width="16" height="16"/>
+    <SubTexture name="Fire_41" x="918" y="1178" width="16" height="16"/>
+    <SubTexture name="Fire_42" x="982" y="1157" width="16" height="16"/>
+    <SubTexture name="Fire_43" x="966" y="1171" width="16" height="16"/>
+    <SubTexture name="Fire_44" x="998" y="1157" width="16" height="16"/>
+    <SubTexture name="Fire_45" x="934" y="1183" width="16" height="16"/>
+    <SubTexture name="Fire_46" x="950" y="1183" width="16" height="16"/>
+    <SubTexture name="Fire_47" x="902" y="1194" width="16" height="16"/>
+    <SubTexture name="Fire_48" x="918" y="1194" width="16" height="16"/>
+    <SubTexture name="Fire_49" x="982" y="1173" width="16" height="16"/>
+    <SubTexture name="Fire_50" x="966" y="1187" width="16" height="16"/>
+    <SubTexture name="Fire_51" x="998" y="1173" width="16" height="16"/>
+    <SubTexture name="Fire_52" x="934" y="1199" width="16" height="16"/>
+    <SubTexture name="Fire_53" x="950" y="1199" width="16" height="16"/>
+    <SubTexture name="Fire_54" x="902" y="1210" width="16" height="16"/>
+    <SubTexture name="Fire_55" x="918" y="1210" width="16" height="16"/>
+    <SubTexture name="Fire_56" x="982" y="1189" width="16" height="16"/>
+    <SubTexture name="Fire_57" x="966" y="1203" width="16" height="16"/>
+    <SubTexture name="Fire_58" x="998" y="1189" width="16" height="16"/>
+    <SubTexture name="Fire_59" x="934" y="1215" width="16" height="16"/>
+    <SubTexture name="Fire_60" x="950" y="1215" width="16" height="16"/>
+    <SubTexture name="Fire_61" x="902" y="1226" width="16" height="16"/>
+    <SubTexture name="Fire_62" x="918" y="1226" width="16" height="16"/>
+    <SubTexture name="Fire_63" x="982" y="1205" width="16" height="16"/>
+    <SubTexture name="Fire_64" x="966" y="1219" width="16" height="16"/>
+    <SubTexture name="Fire_65" x="998" y="1205" width="16" height="16"/>
+    <SubTexture name="Fire_66" x="934" y="1231" width="16" height="16"/>
+    <SubTexture name="Fire_67" x="950" y="1231" width="16" height="16"/>
+    <SubTexture name="Flower_Pot" x="938" y="856" width="18" height="36"/>
+    <SubTexture name="Ladder" x="939" y="672" width="20" height="34"/>
+    <SubTexture name="Magnet" x="902" y="406" rotated="true" width="64" height="16"/>
+    <SubTexture name="Npc_Civilian_00" x="972" y="1027" width="16" height="32"/>
+    <SubTexture name="Npc_Civilian_01" x="902" y="1098" rotated="true" width="32" height="16"/>
+    <SubTexture name="Npc_Civilian_02" x="987" y="1077" rotated="true" width="32" height="16"/>
+    <SubTexture name="Npc_Civilian_03" x="966" y="1091" width="16" height="32"/>
+    <SubTexture name="Npc_Robber_00" x="934" y="1103" rotated="true" width="32" height="16"/>
+    <SubTexture name="Npc_Robber_01" x="902" y="1114" rotated="true" width="32" height="16"/>
+    <SubTexture name="Npc_Robber_02" x="934" y="1119" rotated="true" width="32" height="16"/>
+    <SubTexture name="Npc_Robber_03" x="902" y="1130" rotated="true" width="32" height="16"/>
+    <SubTexture name="Overlay_Combined" x="0" y="0" rotated="true" width="722" height="1282"/>
+    <SubTexture name="Pipe_Jump" x="982" y="1093" width="32" height="12"/>
+    <SubTexture name="Pipe_Slide" x="993" y="184" rotated="true" width="30" height="32"/>
+    <SubTexture name="Power_Fire" x="986" y="697" width="4" height="4"/>
+    <SubTexture name="Power_Water" x="986" y="701" width="4" height="4"/>
+    <SubTexture name="Sign_Jump" x="918" y="1242" width="16" height="16"/>
+    <SubTexture name="Sign_Jump2" x="982" y="1221" width="16" height="16"/>
+    <SubTexture name="Sign_Power" x="966" y="1235" width="16" height="16"/>
+    <SubTexture name="Sign_Slide" x="998" y="1221" width="16" height="16"/>
+    <SubTexture name="Sign_Slide2" x="934" y="1247" width="16" height="16"/>
+    <SubTexture name="Smoke" x="950" y="1247" width="16" height="16"/>
+    <SubTexture name="Superhero_Idle" x="969" y="1059" width="18" height="32"/>
+    <SubTexture name="Superhero_Jump_00" x="938" y="790" width="19" height="33"/>
+    <SubTexture name="Superhero_Jump_01" x="957" y="827" rotated="true" width="33" height="18"/>
+    <SubTexture name="Superhero_Jump_02" x="957" y="845" rotated="true" width="33" height="18"/>
+    <SubTexture name="Superhero_Jump_03" x="938" y="928" width="18" height="33"/>
+    <SubTexture name="Superhero_Jump_04" x="990" y="949" rotated="true" width="33" height="18"/>
+    <SubTexture name="Superhero_JumpStart_00" x="902" y="706" width="36" height="32"/>
+    <SubTexture name="Superhero_JumpStart_01" x="902" y="738" width="36" height="32"/>
+    <SubTexture name="Superhero_JumpStart_02" x="958" y="723" rotated="true" width="32" height="36"/>
+    <SubTexture name="Superhero_JumpStart_03" x="991" y="629" width="33" height="32"/>
+    <SubTexture name="Superhero_JumpStart_04" x="993" y="120" width="30" height="32"/>
+    <SubTexture name="Superhero_JumpStart_05" x="938" y="706" width="20" height="34"/>
+    <SubTexture name="Superhero_Punch_00" x="990" y="661" width="34" height="32"/>
+    <SubTexture name="Superhero_Punch_01" x="989" y="967" width="35" height="32"/>
+    <SubTexture name="Superhero_Punch_02" x="990" y="693" width="34" height="32"/>
+    <SubTexture name="Superhero_Punch_03" x="902" y="770" width="36" height="32"/>
+    <SubTexture name="Superhero_Punch_04" x="992" y="592" rotated="true" width="32" height="37"/>
+    <SubTexture name="Superhero_Punch_05" x="902" y="486" width="38" height="32"/>
+    <SubTexture name="Superhero_Punch_06" x="902" y="518" width="38" height="32"/>
+    <SubTexture name="Superhero_Punch_07" x="902" y="422" width="39" height="32"/>
+    <SubTexture name="Superhero_Run_00" x="990" y="725" width="34" height="32"/>
+    <SubTexture name="Superhero_Run_01" x="990" y="757" width="34" height="32"/>
+    <SubTexture name="Superhero_Run_02" x="902" y="610" width="37" height="32"/>
+    <SubTexture name="Superhero_Run_03" x="990" y="789" width="34" height="32"/>
+    <SubTexture name="Superhero_Run_04" x="990" y="821" width="34" height="32"/>
+    <SubTexture name="Superhero_Run_05" x="958" y="759" rotated="true" width="32" height="36"/>
+    <SubTexture name="Superhero_RunStart_00" x="941" y="480" width="23" height="32"/>
+    <SubTexture name="Superhero_RunStart_01" x="956" y="995" width="32" height="32"/>
+    <SubTexture name="Superhero_Slide" x="966" y="464" width="27" height="26"/>
+    <SubTexture name="Superhero_SlideRecover_00" x="959" y="697" width="27" height="26"/>
+    <SubTexture name="Superhero_SlideRecover_01" x="962" y="645" rotated="true" width="28" height="26"/>
+    <SubTexture name="Superhero_SlideRecover_02" x="966" y="406" width="27" height="29"/>
+    <SubTexture name="Superhero_SlideRecover_03" x="963" y="555" rotated="true" width="29" height="26"/>
+    <SubTexture name="Superhero_SlideRecover_04" x="941" y="422" width="25" height="29"/>
+    <SubTexture name="Superhero_SlideRecover_05" x="993" y="0" rotated="true" width="31" height="24"/>
+    <SubTexture name="Superhero_SlideRecover_06" x="940" y="512" width="23" height="32"/>
+    <SubTexture name="Superhero_SlideRecover_07" x="940" y="544" width="23" height="32"/>
+    <SubTexture name="Superhero_SlideStart_00" x="993" y="48" rotated="true" width="30" height="36"/>
+    <SubTexture name="Superhero_SlideStart_01" x="993" y="489" rotated="true" width="29" height="39"/>
+    <SubTexture name="Superhero_SlideStart_02" x="902" y="582" width="38" height="28"/>
+    <SubTexture name="Superhero_SlideStart_03" x="902" y="962" width="36" height="26"/>
+    <SubTexture name="Superhero_SlideStart_04" x="988" y="999" width="35" height="26"/>
+    <SubTexture name="Superhero_SlideStart_05" x="988" y="1025" width="35" height="26"/>
+    <SubTexture name="Superhero_SlideStart_06" x="902" y="1072" width="32" height="26"/>
+    <SubTexture name="Superhero_SlideStart_07" x="993" y="528" width="29" height="26"/>
+    <SubTexture name="Supervillain_Idle" x="934" y="1085" rotated="true" width="32" height="18"/>
+    <SubTexture name="Supervillain_Jump_00" x="938" y="823" width="19" height="33"/>
+    <SubTexture name="Supervillain_Jump_01" x="956" y="959" rotated="true" width="33" height="18"/>
+    <SubTexture name="Supervillain_Jump_02" x="938" y="961" width="18" height="33"/>
+    <SubTexture name="Supervillain_Jump_03" x="956" y="977" rotated="true" width="33" height="18"/>
+    <SubTexture name="Supervillain_Jump_04" x="938" y="994" width="18" height="33"/>
+    <SubTexture name="Supervillain_JumpStart_00" x="902" y="802" width="36" height="32"/>
+    <SubTexture name="Supervillain_JumpStart_01" x="902" y="834" width="36" height="32"/>
+    <SubTexture name="Supervillain_JumpStart_02" x="902" y="866" width="36" height="32"/>
+    <SubTexture name="Supervillain_JumpStart_03" x="957" y="795" width="33" height="32"/>
+    <SubTexture name="Supervillain_JumpStart_04" x="993" y="152" width="30" height="32"/>
+    <SubTexture name="Supervillain_JumpStart_05" x="938" y="740" width="20" height="34"/>
+    <SubTexture name="Supervillain_Punch_00" x="990" y="853" width="34" height="32"/>
+    <SubTexture name="Supervillain_Punch_01" x="902" y="1014" width="35" height="32"/>
+    <SubTexture name="Supervillain_Punch_02" x="956" y="863" width="34" height="32"/>
+    <SubTexture name="Supervillain_Punch_03" x="902" y="898" width="36" height="32"/>
+    <SubTexture name="Supervillain_Punch_04" x="902" y="642" width="37" height="32"/>
+    <SubTexture name="Supervillain_Punch_05" x="992" y="554" rotated="true" width="32" height="38"/>
+    <SubTexture name="Supervillain_Punch_06" x="902" y="550" width="38" height="32"/>
+    <SubTexture name="Supervillain_Punch_07" x="902" y="454" width="39" height="32"/>
+    <SubTexture name="Supervillain_Run_00" x="990" y="885" width="34" height="32"/>
+    <SubTexture name="Supervillain_Run_01" x="956" y="895" width="34" height="32"/>
+    <SubTexture name="Supervillain_Run_02" x="902" y="674" width="37" height="32"/>
+    <SubTexture name="Supervillain_Run_03" x="990" y="917" width="34" height="32"/>
+    <SubTexture name="Supervillain_Run_04" x="956" y="927" width="34" height="32"/>
+    <SubTexture name="Supervillain_Run_05" x="902" y="930" width="36" height="32"/>
+    <SubTexture name="Supervillain_RunStart_00" x="940" y="576" width="23" height="32"/>
+    <SubTexture name="Supervillain_RunStart_01" x="937" y="1053" width="32" height="32"/>
+    <SubTexture name="Supervillain_Slide" x="982" y="1105" width="27" height="26"/>
+    <SubTexture name="Supervillain_SlideRecover_00" x="982" y="1131" width="27" height="26"/>
+    <SubTexture name="Supervillain_SlideRecover_01" x="962" y="671" rotated="true" width="28" height="26"/>
+    <SubTexture name="Supervillain_SlideRecover_02" x="966" y="435" width="27" height="29"/>
+    <SubTexture name="Supervillain_SlideRecover_03" x="963" y="581" rotated="true" width="29" height="26"/>
+    <SubTexture name="Supervillain_SlideRecover_04" x="941" y="451" width="25" height="29"/>
+    <SubTexture name="Supervillain_SlideRecover_05" x="993" y="24" rotated="true" width="31" height="24"/>
+    <SubTexture name="Supervillain_SlideRecover_06" x="940" y="608" width="23" height="32"/>
+    <SubTexture name="Supervillain_SlideRecover_07" x="939" y="640" width="23" height="32"/>
+    <SubTexture name="Supervillain_SlideStart_00" x="993" y="84" rotated="true" width="30" height="36"/>
+    <SubTexture name="Supervillain_SlideStart_01" x="964" y="490" rotated="true" width="29" height="39"/>
+    <SubTexture name="Supervillain_SlideStart_02" x="963" y="607" rotated="true" width="28" height="38"/>
+    <SubTexture name="Supervillain_SlideStart_03" x="902" y="988" width="36" height="26"/>
+    <SubTexture name="Supervillain_SlideStart_04" x="937" y="1027" width="35" height="26"/>
+    <SubTexture name="Supervillain_SlideStart_05" x="902" y="1046" width="35" height="26"/>
+    <SubTexture name="Supervillain_SlideStart_06" x="988" y="1051" width="32" height="26"/>
+    <SubTexture name="Supervillain_SlideStart_07" x="963" y="529" width="29" height="26"/>
+    <SubTexture name="Tile_Rooftop_Day_00" x="902" y="1258" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Day_01" x="918" y="1258" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Day_02" x="982" y="1237" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Day_03" x="966" y="1251" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Day_04" x="998" y="1237" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Day_05" x="934" y="1263" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_00" x="950" y="1263" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_01" x="902" y="1274" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_02" x="918" y="1274" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_03" x="982" y="1253" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_04" x="966" y="1267" width="16" height="16"/>
+    <SubTexture name="Tile_Rooftop_Night_05" x="998" y="1253" width="16" height="16"/>
+    <SubTexture name="Tree_Pot" x="938" y="892" width="18" height="36"/>
+    <SubTexture name="Trigger_00" x="934" y="1279" width="16" height="16"/>
+    <SubTexture name="Trigger_01" x="950" y="1279" width="16" height="16"/>
+    <SubTexture name="Trigger_02" x="982" y="1269" width="16" height="16"/>
+</TextureAtlas>
